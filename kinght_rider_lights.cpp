@@ -49,5 +49,5 @@ void loop() {
   }
 
   // now delay with motion tween
-  delay(50 + (sin((2 * 3.1416 * i) / 5) * 30));
+  delay(50 + (sin((3.1416 * abs(2.5 - i / 2)) / 5) * 40));
 }
