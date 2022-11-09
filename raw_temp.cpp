@@ -1,7 +1,14 @@
+/*
+ * File: raw_temp.cpp
+ * Author: Mazhar Ahmed
+ * Board: NodeMCU ESP8266
+ *
+ * It will display humidity and temperature via serial port
+ */
+
 #include <DHT12.h>
 #include <DHT12.h>
 #include <DHTesp.h>
-
 
 
 DHT dht;
