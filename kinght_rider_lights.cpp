@@ -1,3 +1,11 @@
+/*
+ * File: kight_rider_lights.cpp
+ * Author: Mazhar Ahmed
+ * Board: Arduino Uno r3
+ *
+ * It will animate 6 LEDs for pin 8, 9, 10, 11, 12, 13
+ */
+
 int i = 0;
 int incr = 1;
 int leds[6] = {8, 9, 10, 11, 12, 13};
