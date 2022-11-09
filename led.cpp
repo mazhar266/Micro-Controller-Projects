@@ -1,3 +1,11 @@
+/*
+ * File: led.cpp
+ * Author: Mazhar Ahmed
+ * Board: Arduino Uno r3
+ *
+ * It will blink the default LED + any LED at 13 pin
+ */
+
 #define LED_PIN 13
 
 void setup() {
