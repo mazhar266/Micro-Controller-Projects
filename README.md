@@ -1,4 +1,4 @@
 # Micro-Controller-Projects
 
-All my arduino project's source code goes here (Only public codes)
+All my micro controller project's source code goes here (Only public codes)
 
