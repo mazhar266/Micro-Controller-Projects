@@ -1,3 +1,11 @@
+/*
+ * File: web_temperature.cpp
+ * Author: Mazhar Ahmed
+ * Board: NodeMCU ESP8266
+ *
+ * It will make a web server displaying humidity and temperature
+ */
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include "DHT.h"
